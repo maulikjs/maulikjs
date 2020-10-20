@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
-An AI/ML platform for the cloud using open source technologies. Come check my project out: http://opendatahub.io/
+An AI/ML platform for the cloud using open source technologies. Come check my project out: https://opendatahub.io/
 
 <!--
 **maulikjs/maulikjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
