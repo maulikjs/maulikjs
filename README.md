@@ -3,7 +3,7 @@
 An AI/ML platform for the cloud using open source technologies. Come check our project out: https://opendatahub.io/  
 
 - 🌱 I’m currently learning ...  
-Data Engineering tools and methodologies for super large scale systems.
+Data Engineering tools and methodologies for super large scale distributed systems.
 
 <!--
 **maulikjs/maulikjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
