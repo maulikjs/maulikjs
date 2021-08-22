@@ -5,6 +5,9 @@ An AI/ML platform for the cloud using open source technologies. Come check our p
 - 🌱 I’m currently learning ...  
 Data Engineering tools and methodologies for super large scale distributed systems.
 
+![Maulik's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulikjs&show_icons=true&theme=radical)
+
+
 <!--
 **maulikjs/maulikjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
